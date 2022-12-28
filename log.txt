@@ -113,3 +113,1807 @@
 
 *** Streamer Plugin v2.9.5 by Incognito unloaded ***
 
+[14:09:22] [Info] Loading plugin: streamer
+[14:09:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:09:22] [Info] Loading plugin: samp-node
+[14:09:23] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[14:09:23] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[14:09:23] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[14:09:23] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[14:09:23] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[14:09:23] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[14:09:23] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[14:09:23] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[14:09:23] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[14:09:23] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[14:09:23] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[14:09:23] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[14:09:23] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[14:09:23] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[14:09:23] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[14:09:23] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[14:09:23] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[14:09:23] [Info] Total vehicles from files: 1781
+[14:09:23] [Info] 
+---------------------------------------
+[14:09:23] [Info] Running Grand Larceny - by the SA-MP team
+
+[14:09:23] [Info] ---------------------------------------
+
+[14:09:23] [Info] Legacy Network started on port 7777
+[14:09:55] [Info] [connection] incoming connection: 127.0.0.1:52973 id: 0
+[14:09:55] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[14:10:54] [Info] Loading plugin: streamer
+[14:10:54] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:10:54] [Info] Loading plugin: samp-node
+[14:10:54] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[14:10:54] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[14:10:54] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[14:10:54] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[14:10:54] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[14:10:54] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[14:10:54] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[14:10:54] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[14:10:54] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[14:10:54] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[14:10:54] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[14:10:54] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[14:10:54] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[14:10:54] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[14:10:54] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[14:10:54] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[14:10:54] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[14:10:54] [Info] Total vehicles from files: 1781
+[14:10:54] [Info] 
+---------------------------------------
+[14:10:54] [Info] Running Grand Larceny - by the SA-MP team
+
+[14:10:54] [Info] ---------------------------------------
+
+[14:10:54] [Info] Legacy Network started on port 7777
+[14:11:23] [Info] Loading plugin: streamer
+[14:11:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[14:11:23] [Info] Loading plugin: samp-node
+[14:11:23] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[14:11:23] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[14:11:23] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[14:11:23] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[14:11:23] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[14:11:23] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[14:11:23] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[14:11:23] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[14:11:23] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[14:11:23] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[14:11:23] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[14:11:23] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[14:11:23] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[14:11:23] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[14:11:23] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[14:11:23] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[14:11:23] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[14:11:23] [Info] Total vehicles from files: 1781
+[14:11:23] [Info] 
+---------------------------------------
+[14:11:23] [Info] Running Grand Larceny - by the SA-MP team
+
+[14:11:23] [Info] ---------------------------------------
+
+[14:11:23] [Info] Legacy Network started on port 7777
+[14:11:41] [Info] [connection] incoming connection: 127.0.0.1:51753 id: 0
+[14:11:41] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:12:57] [Info] Loading plugin: streamer
+[23:12:57] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:12:57] [Info] Loading plugin: samp-node
+[23:13:23] [Info] Loading plugin: streamer
+[23:13:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:23] [Info] Loading plugin: samp-node
+[23:13:24] [Info] Loading plugin: streamer
+[23:13:24] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:24] [Info] Loading plugin: samp-node
+[23:13:25] [Info] Loading plugin: streamer
+[23:13:25] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:25] [Info] Loading plugin: samp-node
+[23:13:26] [Info] Loading plugin: streamer
+[23:13:26] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:26] [Info] Loading plugin: samp-node
+[23:13:27] [Info] Loading plugin: streamer
+[23:13:27] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:27] [Info] Loading plugin: samp-node
+[23:13:28] [Info] Loading plugin: streamer
+[23:13:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:13:28] [Info] Loading plugin: samp-node
+[23:14:38] [Info] Loading plugin: streamer
+[23:14:38] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:14:38] [Info] Loading plugin: samp-node
+[23:14:38] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:14:38] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:14:38] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:14:38] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:14:38] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:14:38] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:14:38] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:14:38] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:14:38] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:14:38] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:14:38] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:14:38] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:14:38] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:14:38] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:14:38] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:14:38] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:14:38] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:14:38] [Info] Total vehicles from files: 1781
+[23:14:38] [Info] 
+---------------------------------------
+[23:14:38] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:14:38] [Info] ---------------------------------------
+
+[23:14:38] [Info] Legacy Network started on port 7777
+[23:14:40] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:15:28] [Info] Loading plugin: streamer
+[23:15:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:15:28] [Info] Loading plugin: samp-node
+[23:15:28] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:15:28] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:15:28] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:15:28] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:15:28] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:15:28] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:15:28] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:15:28] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:15:28] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:15:28] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:15:28] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:15:28] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:15:28] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:15:28] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:15:28] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:15:28] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:15:28] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:15:28] [Info] Total vehicles from files: 1781
+[23:15:28] [Info] 
+---------------------------------------
+[23:15:28] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:15:28] [Info] ---------------------------------------
+
+[23:15:28] [Info] Legacy Network started on port 7777
+[23:15:47] [Info] [connection] incoming connection: 127.0.0.1:53595 id: 0
+[23:15:47] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:18:39] [Info] Loading plugin: streamer
+[23:18:39] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:18:39] [Info] Loading plugin: samp-node
+[23:18:39] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:18:39] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:18:39] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:18:39] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:18:39] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:18:39] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:18:39] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:18:39] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:18:39] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:18:39] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:18:39] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:18:39] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:18:39] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:18:39] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:18:39] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:18:39] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:18:39] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:18:39] [Info] Total vehicles from files: 1781
+[23:18:39] [Info] 
+---------------------------------------
+[23:18:39] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:18:39] [Info] ---------------------------------------
+
+[23:18:39] [Info] Legacy Network started on port 7777
+[23:18:49] [Info] [connection] incoming connection: 127.0.0.1:62302 id: 0
+[23:18:49] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:19:34] [Info] Loading plugin: streamer
+[23:19:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:19:34] [Info] Loading plugin: samp-node
+[23:19:34] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:19:34] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:19:34] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:19:34] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:19:34] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:19:34] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:19:34] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:19:34] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:19:34] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:19:34] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:19:34] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:19:34] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:19:34] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:19:34] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:19:34] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:19:34] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:19:34] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:19:34] [Info] Total vehicles from files: 1781
+[23:19:35] [Info] 
+---------------------------------------
+[23:19:35] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:19:35] [Info] ---------------------------------------
+
+[23:19:35] [Info] Legacy Network started on port 7777
+[23:19:50] [Info] [connection] incoming connection: 127.0.0.1:57573 id: 0
+[23:19:50] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:23:28] [Info] Loading plugin: streamer
+[23:23:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:23:28] [Info] Loading plugin: samp-node
+[23:23:29] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:23:29] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:23:29] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:23:29] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:23:29] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:23:29] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:23:29] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:23:29] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:23:29] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:23:29] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:23:29] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:23:29] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:23:29] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:23:29] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:23:29] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:23:29] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:23:29] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:23:29] [Info] Total vehicles from files: 1781
+[23:23:29] [Info] 
+---------------------------------------
+[23:23:29] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:23:29] [Info] ---------------------------------------
+
+[23:23:29] [Info] Legacy Network started on port 7777
+[23:23:53] [Info] [connection] incoming connection: 127.0.0.1:59055 id: 0
+[23:23:53] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:27:09] [Info] Loading plugin: streamer
+[23:27:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:27:09] [Info] Loading plugin: samp-node
+[23:27:09] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:27:09] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:27:09] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:27:09] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:27:10] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:27:10] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:27:10] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:27:10] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:27:10] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:27:10] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:27:10] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:27:10] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:27:10] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:27:10] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:27:10] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:27:10] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:27:10] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:27:10] [Info] Total vehicles from files: 1781
+[23:27:10] [Info] 
+---------------------------------------
+[23:27:10] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:27:10] [Info] ---------------------------------------
+
+[23:27:10] [Info] Legacy Network started on port 7777
+[23:27:13] [Info] [connection] incoming connection: 127.0.0.1:65131 id: 0
+[23:27:13] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:28:40] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:28:44] [Info] Loading plugin: streamer
+[23:28:44] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:28:44] [Info] Loading plugin: samp-node
+[23:28:44] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:28:44] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:28:44] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:28:44] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:28:44] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:28:44] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:28:44] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:28:44] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:28:44] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:28:44] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:28:44] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:28:44] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:28:44] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:28:44] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:28:44] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:28:44] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:28:44] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:28:44] [Info] Total vehicles from files: 1781
+[23:28:44] [Info] 
+---------------------------------------
+[23:28:44] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:28:44] [Info] ---------------------------------------
+
+[23:28:44] [Info] Legacy Network started on port 7777
+[23:28:59] [Info] [connection] incoming connection: 127.0.0.1:53467 id: 0
+[23:28:59] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:30:12] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:30:22] [Info] Loading plugin: streamer
+[23:30:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:30:22] [Info] Loading plugin: samp-node
+[23:30:22] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:30:22] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:30:22] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:30:22] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:30:22] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:30:22] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:30:22] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:30:22] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:30:22] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:30:22] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:30:22] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:30:22] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:30:22] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:30:22] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:30:22] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:30:22] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:30:22] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:30:22] [Info] Total vehicles from files: 1781
+[23:30:22] [Info] 
+---------------------------------------
+[23:30:22] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:30:22] [Info] ---------------------------------------
+
+[23:30:22] [Info] Legacy Network started on port 7777
+[23:30:30] [Info] [connection] incoming connection: 127.0.0.1:60888 id: 0
+[23:30:30] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:30:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:30:52] [Info] Loading plugin: streamer
+[23:30:52] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:30:52] [Info] Loading plugin: samp-node
+[23:30:53] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:30:53] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:30:53] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:30:53] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:30:53] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:30:53] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:30:53] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:30:53] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:30:53] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:30:53] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:30:53] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:30:53] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:30:53] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:30:53] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:30:53] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:30:53] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:30:53] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:30:53] [Info] Total vehicles from files: 1781
+[23:30:53] [Info] 
+---------------------------------------
+[23:30:53] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:30:53] [Info] ---------------------------------------
+
+[23:30:53] [Info] Legacy Network started on port 7777
+[23:31:02] [Info] [connection] incoming connection: 127.0.0.1:52121 id: 0
+[23:31:02] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:43:13] [Info] Loading plugin: streamer
+[23:43:13] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:43:13] [Info] Loading plugin: samp-node
+[23:43:13] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:43:13] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:43:13] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:43:13] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:43:13] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:43:13] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:43:13] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:43:13] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:43:13] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:43:13] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:43:13] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:43:13] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:43:13] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:43:13] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:43:13] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:43:13] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:43:13] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:43:13] [Info] Total vehicles from files: 1781
+[23:43:13] [Info] 
+---------------------------------------
+[23:43:13] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:43:13] [Info] ---------------------------------------
+
+[23:43:13] [Info] Legacy Network started on port 7777
+[23:43:25] [Info] [connection] incoming connection: 127.0.0.1:57684 id: 0
+[23:43:25] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:43:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:51:20] [Info] Loading plugin: streamer
+[23:51:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:51:20] [Info] Loading plugin: samp-node
+[23:52:33] [Info] Loading plugin: streamer
+[23:52:33] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:52:33] [Info] Loading plugin: samp-node
+[23:52:33] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:52:33] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:52:33] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:52:33] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:52:33] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:52:33] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:52:33] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:52:33] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:52:33] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:52:33] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:52:33] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:52:33] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:52:33] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:52:33] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:52:33] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:52:33] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:52:33] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:52:33] [Info] Total vehicles from files: 1781
+[23:52:33] [Info] 
+---------------------------------------
+[23:52:33] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:52:33] [Info] ---------------------------------------
+
+[23:52:33] [Info] Legacy Network started on port 7777
+[23:52:38] [Info] [connection] incoming connection: 127.0.0.1:50141 id: 0
+[23:52:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:54:35] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:54:42] [Info] Loading plugin: streamer
+[23:54:42] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:54:42] [Info] Loading plugin: samp-node
+[23:54:45] [Info] Loading plugin: streamer
+[23:54:45] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:54:45] [Info] Loading plugin: samp-node
+[23:54:45] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:54:45] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:54:45] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:54:45] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:54:45] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:54:45] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:54:45] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:54:45] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:54:45] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:54:45] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:54:45] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:54:45] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:54:45] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:54:45] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:54:45] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:54:45] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:54:45] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:54:45] [Info] Total vehicles from files: 1781
+[23:54:45] [Info] 
+---------------------------------------
+[23:54:45] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:54:45] [Info] ---------------------------------------
+
+[23:54:45] [Info] Legacy Network started on port 7777
+[23:54:51] [Info] [connection] incoming connection: 127.0.0.1:51075 id: 0
+[23:54:51] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:54:57] [Info] Loading plugin: streamer
+[23:54:57] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:54:57] [Info] Loading plugin: samp-node
+[23:54:58] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:54:58] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:54:58] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:54:58] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:54:58] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:54:58] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:54:58] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:54:58] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:54:58] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:54:58] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:54:58] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:54:58] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:54:58] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:54:58] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:54:58] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:54:58] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:54:58] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:54:58] [Info] Total vehicles from files: 1781
+[23:54:58] [Info] 
+---------------------------------------
+[23:54:58] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:54:58] [Info] ---------------------------------------
+
+[23:54:58] [Info] Legacy Network started on port 7777
+[23:55:39] [Info] [connection] incoming connection: 127.0.0.1:51078 id: 0
+[23:55:39] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[23:58:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[23:58:15] [Info] Loading plugin: streamer
+[23:58:15] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:58:15] [Info] Loading plugin: samp-node
+[23:58:18] [Info] Loading plugin: streamer
+[23:58:18] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:58:18] [Info] Loading plugin: samp-node
+[23:58:18] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[23:58:18] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:58:18] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:58:18] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:58:18] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:58:18] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:58:18] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:58:18] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:58:18] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:58:18] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:58:18] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:58:18] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:58:18] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:58:18] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[23:58:18] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[23:58:18] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:58:18] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:58:18] [Info] Total vehicles from files: 1781
+[23:58:18] [Info] 
+---------------------------------------
+[23:58:18] [Info] Running Grand Larceny - by the SA-MP team
+
+[23:58:18] [Info] ---------------------------------------
+
+[23:58:18] [Info] Legacy Network started on port 7777
+[23:58:23] [Info] [connection] incoming connection: 127.0.0.1:58981 id: 0
+[23:58:23] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:04:47] [Info] Loading plugin: streamer
+[00:04:47] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:04:47] [Info] Loading plugin: samp-node
+[00:04:47] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:04:47] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:04:47] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:04:47] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:04:47] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:04:47] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:04:47] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:04:47] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:04:47] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:04:47] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:04:47] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:04:47] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:04:47] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:04:47] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:04:47] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:04:47] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:04:47] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:04:47] [Info] Total vehicles from files: 1781
+[00:04:47] [Info] 
+---------------------------------------
+[00:04:47] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:04:47] [Info] ---------------------------------------
+
+[00:04:47] [Info] Legacy Network started on port 7777
+[00:05:10] [Info] Loading plugin: streamer
+[00:05:11] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:05:11] [Info] Loading plugin: samp-node
+[00:05:11] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:05:11] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:05:11] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:05:11] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:05:11] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:05:11] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:05:11] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:05:11] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:05:11] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:05:11] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:05:11] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:05:11] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:05:11] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:05:11] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:05:11] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:05:11] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:05:11] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:05:11] [Info] Total vehicles from files: 1781
+[00:05:11] [Info] 
+---------------------------------------
+[00:05:11] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:05:11] [Info] ---------------------------------------
+
+[00:05:11] [Info] Legacy Network started on port 7777
+[00:06:23] [Info] Loading plugin: streamer
+[00:06:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:06:23] [Info] Loading plugin: samp-node
+[00:06:24] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:06:24] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:06:24] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:06:24] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:06:24] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:06:24] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:06:24] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:06:24] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:06:24] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:06:24] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:06:24] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:06:24] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:06:24] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:06:24] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:06:24] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:06:24] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:06:24] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:06:24] [Info] Total vehicles from files: 1781
+[00:06:24] [Info] 
+---------------------------------------
+[00:06:24] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:06:24] [Info] ---------------------------------------
+
+[00:06:24] [Info] Legacy Network started on port 7777
+[00:07:11] [Info] Loading plugin: streamer
+[00:07:11] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:07:11] [Info] Loading plugin: samp-node
+[00:07:11] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:07:11] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:07:11] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:07:11] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:07:11] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:07:11] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:07:11] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:07:11] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:07:11] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:07:11] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:07:11] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:07:11] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:07:11] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:07:11] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:07:11] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:07:11] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:07:11] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:07:11] [Info] Total vehicles from files: 1781
+[00:07:11] [Info] 
+---------------------------------------
+[00:07:11] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:07:11] [Info] ---------------------------------------
+
+[00:07:11] [Info] Legacy Network started on port 7777
+[00:07:28] [Info] [connection] incoming connection: 127.0.0.1:63483 id: 0
+[00:07:28] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:08:04] [Info] Loading plugin: streamer
+[00:08:04] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:08:04] [Info] Loading plugin: samp-node
+[00:08:05] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:08:05] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:08:05] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:08:05] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:08:05] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:08:05] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:08:05] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:08:05] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:08:05] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:08:05] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:08:05] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:08:05] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:08:05] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:08:05] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:08:05] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:08:05] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:08:05] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:08:05] [Info] Total vehicles from files: 1781
+[00:08:05] [Info] 
+---------------------------------------
+[00:08:05] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:08:05] [Info] ---------------------------------------
+
+[00:08:05] [Info] Legacy Network started on port 7777
+[00:08:29] [Info] [connection] incoming connection: 127.0.0.1:63488 id: 0
+[00:08:29] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:09:20] [Info] Loading plugin: streamer
+[00:09:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:20] [Info] Loading plugin: samp-node
+[00:09:20] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:09:20] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:09:20] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:09:20] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:09:20] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:09:20] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:09:20] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:09:20] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:09:20] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:09:20] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:09:20] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:09:20] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:09:20] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:09:20] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:09:20] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:09:20] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:09:20] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:09:20] [Info] Total vehicles from files: 1781
+[00:09:20] [Info] 
+---------------------------------------
+[00:09:20] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:09:20] [Info] ---------------------------------------
+
+[00:09:20] [Info] Legacy Network started on port 7777
+[00:09:45] [Info] [connection] incoming connection: 127.0.0.1:55127 id: 0
+[00:09:45] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:10:15] [Info] Loading plugin: streamer
+[00:10:15] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:10:15] [Info] Loading plugin: samp-node
+[00:10:16] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:10:16] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:10:16] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:10:16] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:10:16] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:10:16] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:10:16] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:10:16] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:10:16] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:10:16] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:10:16] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:10:16] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:10:16] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:10:16] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:10:16] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:10:16] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:10:16] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:10:16] [Info] Total vehicles from files: 1781
+[00:10:16] [Info] 
+---------------------------------------
+[00:10:16] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:10:16] [Info] ---------------------------------------
+
+[00:10:16] [Info] Legacy Network started on port 7777
+[00:11:11] [Info] [connection] incoming connection: 127.0.0.1:54326 id: 0
+[00:11:11] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:12:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:12:29] [Info] Loading plugin: streamer
+[00:12:29] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:12:29] [Info] Loading plugin: samp-node
+[00:12:32] [Info] Loading plugin: streamer
+[00:12:32] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:12:32] [Info] Loading plugin: samp-node
+[00:12:33] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:12:33] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:12:33] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:12:33] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:12:33] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:12:33] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:12:33] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:12:33] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:12:33] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:12:33] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:12:33] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:12:33] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:12:33] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:12:33] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:12:33] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:12:33] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:12:33] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:12:33] [Info] Total vehicles from files: 1781
+[00:12:33] [Info] 
+---------------------------------------
+[00:12:33] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:12:33] [Info] ---------------------------------------
+
+[00:12:33] [Info] Legacy Network started on port 7777
+[00:12:42] [Info] [connection] incoming connection: 127.0.0.1:58120 id: 0
+[00:12:42] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:15:21] [Info] Loading plugin: streamer
+[00:15:21] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:15:21] [Info] Loading plugin: samp-node
+[00:15:21] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:15:21] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:15:21] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:15:21] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:15:21] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:15:21] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:15:21] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:15:21] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:15:21] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:15:21] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:15:21] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:15:21] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:15:21] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:15:21] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:15:21] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:15:21] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:15:21] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:15:21] [Info] Total vehicles from files: 1781
+[00:15:21] [Info] 
+---------------------------------------
+[00:15:21] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:15:21] [Info] ---------------------------------------
+
+[00:15:21] [Info] Legacy Network started on port 7777
+[00:15:44] [Info] [connection] incoming connection: 127.0.0.1:51717 id: 0
+[00:15:44] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:21:16] [Info] Loading plugin: streamer
+[00:21:16] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:21:16] [Info] Loading plugin: samp-node
+[00:21:16] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:21:16] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:21:16] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:21:16] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:21:16] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:21:16] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:21:16] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:21:16] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:21:16] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:21:16] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:21:16] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:21:16] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:21:16] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:21:16] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:21:16] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:21:16] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:21:16] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:21:16] [Info] Total vehicles from files: 1781
+[00:21:16] [Info] 
+---------------------------------------
+[00:21:16] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:21:16] [Info] ---------------------------------------
+
+[00:21:16] [Info] Legacy Network started on port 7777
+[00:21:30] [Info] [connection] incoming connection: 127.0.0.1:57068 id: 0
+[00:21:30] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:28:33] [Info] Loading plugin: streamer
+[00:28:33] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:28:33] [Info] Loading plugin: samp-node
+[00:28:33] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:28:33] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:28:33] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:28:33] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:28:33] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:28:33] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:28:33] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:28:33] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:28:33] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:28:33] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:28:33] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:28:33] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:28:33] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:28:33] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:28:33] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:28:33] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:28:33] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:28:33] [Info] Total vehicles from files: 1781
+[00:28:33] [Info] 
+---------------------------------------
+[00:28:33] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:28:33] [Info] ---------------------------------------
+
+[00:28:33] [Info] Legacy Network started on port 7777
+[00:28:46] [Info] [connection] incoming connection: 127.0.0.1:64109 id: 0
+[00:28:46] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:40:52] [Info] Loading plugin: streamer
+[00:40:52] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:40:52] [Info] Loading plugin: samp-node
+[00:40:52] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:40:52] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:40:52] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:40:52] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:40:52] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:40:52] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:40:52] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:40:52] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:40:52] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:40:52] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:40:52] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:40:52] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:40:52] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:40:52] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:40:52] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:40:52] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:40:52] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:40:52] [Info] Total vehicles from files: 1781
+[00:40:52] [Info] 
+---------------------------------------
+[00:40:52] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:40:52] [Info] ---------------------------------------
+
+[00:40:52] [Info] Legacy Network started on port 7777
+[00:41:18] [Info] [connection] incoming connection: 127.0.0.1:65178 id: 0
+[00:41:18] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:42:33] [Info] Loading plugin: streamer
+[00:42:33] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:42:33] [Info] Loading plugin: samp-node
+[00:42:33] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:42:33] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:42:33] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:42:33] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:42:33] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:42:33] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:42:33] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:42:33] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:42:33] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:42:33] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:42:33] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:42:33] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:42:33] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:42:33] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:42:33] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:42:33] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:42:33] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:42:33] [Info] Total vehicles from files: 1781
+[00:42:33] [Info] 
+---------------------------------------
+[00:42:33] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:42:33] [Info] ---------------------------------------
+
+[00:42:33] [Info] Legacy Network started on port 7777
+[00:43:46] [Info] [connection] incoming connection: 127.0.0.1:60638 id: 0
+[00:43:46] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:50:41] [Info] Loading plugin: streamer
+[00:50:41] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:50:41] [Info] Loading plugin: samp-node
+[00:50:41] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:50:41] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:50:41] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:50:41] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:50:41] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:50:41] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:50:41] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:50:41] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:50:41] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:50:41] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:50:41] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:50:41] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:50:41] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:50:41] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:50:41] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:50:41] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:50:41] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:50:41] [Info] Total vehicles from files: 1781
+[00:50:41] [Info] 
+---------------------------------------
+[00:50:41] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:50:41] [Info] ---------------------------------------
+
+[00:50:41] [Info] Legacy Network started on port 7777
+[00:51:05] [Info] [connection] incoming connection: 127.0.0.1:59241 id: 0
+[00:51:05] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:54:43] [Info] Loading plugin: streamer
+[00:54:43] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:54:43] [Info] Loading plugin: samp-node
+[00:54:44] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:54:44] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:54:44] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:54:44] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:54:44] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:54:44] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:54:44] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:54:44] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:54:44] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:54:44] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:54:44] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:54:44] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:54:44] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:54:44] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:54:44] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:54:44] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:54:44] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:54:44] [Info] Total vehicles from files: 1781
+[00:54:44] [Info] 
+---------------------------------------
+[00:54:44] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:54:44] [Info] ---------------------------------------
+
+[00:54:44] [Info] Legacy Network started on port 7777
+[00:54:55] [Info] [connection] incoming connection: 127.0.0.1:55073 id: 0
+[00:54:55] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:55:20] [Info] Loading plugin: streamer
+[00:55:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:55:20] [Info] Loading plugin: samp-node
+[00:55:21] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:55:21] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:55:21] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:55:21] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:55:21] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:55:21] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:55:21] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:55:21] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:55:21] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:55:21] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:55:21] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:55:21] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:55:21] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:55:21] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:55:21] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:55:21] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:55:21] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:55:21] [Info] Total vehicles from files: 1781
+[00:55:21] [Info] 
+---------------------------------------
+[00:55:21] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:55:21] [Info] ---------------------------------------
+
+[00:55:21] [Info] Legacy Network started on port 7777
+[00:56:22] [Info] Loading plugin: streamer
+[00:56:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:56:22] [Info] Loading plugin: samp-node
+[00:56:22] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:56:22] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:56:22] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:56:22] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:56:22] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:56:22] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:56:22] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:56:22] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:56:22] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:56:22] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:56:22] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:56:22] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:56:22] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:56:22] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:56:22] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:56:22] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:56:22] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:56:22] [Info] Total vehicles from files: 1781
+[00:56:22] [Info] 
+---------------------------------------
+[00:56:22] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:56:22] [Info] ---------------------------------------
+
+[00:56:22] [Info] Legacy Network started on port 7777
+[00:56:25] [Info] [connection] incoming connection: 127.0.0.1:54416 id: 0
+[00:56:25] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:57:10] [Info] Loading plugin: streamer
+[00:57:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:57:10] [Info] Loading plugin: samp-node
+[00:57:11] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[00:57:11] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:57:11] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:57:11] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:57:11] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:57:11] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:57:11] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:57:11] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:57:11] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:57:11] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:57:11] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:57:11] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:57:11] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:57:11] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[00:57:11] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[00:57:11] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:57:11] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:57:11] [Info] Total vehicles from files: 1781
+[00:57:11] [Info] 
+---------------------------------------
+[00:57:11] [Info] Running Grand Larceny - by the SA-MP team
+
+[00:57:11] [Info] ---------------------------------------
+
+[00:57:11] [Info] Legacy Network started on port 7777
+[00:57:56] [Info] [connection] incoming connection: 127.0.0.1:63065 id: 0
+[00:57:56] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:01:19] [Info] Loading plugin: streamer
+[01:01:19] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:01:19] [Info] Loading plugin: samp-node
+[01:01:19] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:01:19] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:01:19] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:01:19] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:01:19] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:01:19] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:01:19] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:01:19] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:01:19] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:01:19] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:01:19] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:01:19] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:01:19] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:01:19] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:01:19] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:01:19] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:01:19] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:01:19] [Info] Total vehicles from files: 1781
+[01:01:19] [Info] 
+---------------------------------------
+[01:01:19] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:01:19] [Info] ---------------------------------------
+
+[01:01:19] [Info] Legacy Network started on port 7777
+[01:01:36] [Info] Loading plugin: streamer
+[01:01:36] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:01:36] [Info] Loading plugin: samp-node
+[01:01:36] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:01:36] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:01:36] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:01:36] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:01:36] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:01:36] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:01:36] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:01:36] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:01:36] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:01:36] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:01:36] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:01:36] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:01:36] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:01:36] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:01:36] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:01:36] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:01:36] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:01:36] [Info] Total vehicles from files: 1781
+[01:01:36] [Info] 
+---------------------------------------
+[01:01:36] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:01:36] [Info] ---------------------------------------
+
+[01:01:36] [Info] Legacy Network started on port 7777
+[01:02:34] [Info] Loading plugin: streamer
+[01:02:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:02:34] [Info] Loading plugin: samp-node
+[01:02:34] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:02:34] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:02:34] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:02:34] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:02:34] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:02:34] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:02:34] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:02:34] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:02:34] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:02:34] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:02:34] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:02:34] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:02:34] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:02:34] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:02:34] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:02:34] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:02:34] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:02:34] [Info] Total vehicles from files: 1781
+[01:02:34] [Info] 
+---------------------------------------
+[01:02:34] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:02:34] [Info] ---------------------------------------
+
+[01:02:34] [Info] Legacy Network started on port 7777
+[01:03:16] [Info] Loading plugin: streamer
+[01:03:16] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:03:16] [Info] Loading plugin: samp-node
+[01:03:16] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:03:16] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:03:16] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:03:16] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:03:17] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:03:17] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:03:17] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:03:17] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:03:17] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:03:17] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:03:17] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:03:17] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:03:17] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:03:17] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:03:17] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:03:17] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:03:17] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:03:17] [Info] Total vehicles from files: 1781
+[01:03:17] [Info] 
+---------------------------------------
+[01:03:17] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:03:17] [Info] ---------------------------------------
+
+[01:03:17] [Info] Legacy Network started on port 7777
+[01:03:20] [Info] [connection] incoming connection: 127.0.0.1:61553 id: 0
+[01:03:20] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:04:13] [Info] Loading plugin: streamer
+[01:04:13] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:04:13] [Info] Loading plugin: samp-node
+[01:04:13] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:04:13] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:04:13] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:04:13] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:04:13] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:04:13] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:04:13] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:04:13] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:04:13] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:04:13] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:04:13] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:04:13] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:04:13] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:04:13] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:04:13] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:04:13] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:04:13] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:04:13] [Info] Total vehicles from files: 1781
+[01:04:13] [Info] 
+---------------------------------------
+[01:04:13] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:04:13] [Info] ---------------------------------------
+
+[01:04:13] [Info] Legacy Network started on port 7777
+[01:04:39] [Info] [connection] incoming connection: 127.0.0.1:54151 id: 0
+[01:04:39] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:06:39] [Info] Loading plugin: streamer
+[01:06:39] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:06:39] [Info] Loading plugin: samp-node
+[01:06:39] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:06:39] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:06:39] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:06:39] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:06:39] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:06:39] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:06:39] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:06:39] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:06:39] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:06:39] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:06:39] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:06:39] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:06:39] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:06:39] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:06:39] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:06:39] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:06:39] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:06:39] [Info] Total vehicles from files: 1781
+[01:06:39] [Info] 
+---------------------------------------
+[01:06:39] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:06:39] [Info] ---------------------------------------
+
+[01:06:39] [Info] Legacy Network started on port 7777
+[01:06:57] [Info] [connection] incoming connection: 127.0.0.1:64138 id: 0
+[01:06:57] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:07:34] [Info] Loading plugin: streamer
+[01:07:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:07:34] [Info] Loading plugin: samp-node
+[01:07:34] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:07:34] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:07:34] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:07:34] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:07:34] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:07:34] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:07:34] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:07:34] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:07:34] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:07:34] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:07:34] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:07:34] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:07:34] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:07:34] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:07:34] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:07:34] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:07:34] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:07:34] [Info] Total vehicles from files: 1781
+[01:07:34] [Info] 
+---------------------------------------
+[01:07:34] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:07:34] [Info] ---------------------------------------
+
+[01:07:34] [Info] Legacy Network started on port 7777
+[01:07:58] [Info] [connection] incoming connection: 127.0.0.1:51312 id: 0
+[01:07:58] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:10:32] [Info] Loading plugin: streamer
+[01:10:32] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:10:32] [Info] Loading plugin: samp-node
+[01:10:33] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:10:33] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:10:33] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:10:33] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:10:33] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:10:33] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:10:33] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:10:33] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:10:33] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:10:33] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:10:33] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:10:33] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:10:33] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:10:33] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:10:33] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:10:33] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:10:33] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:10:33] [Info] Total vehicles from files: 1781
+[01:10:33] [Info] 
+---------------------------------------
+[01:10:33] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:10:33] [Info] ---------------------------------------
+
+[01:10:33] [Info] Legacy Network started on port 7777
+[01:10:57] [Info] [connection] incoming connection: 127.0.0.1:52870 id: 0
+[01:10:57] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:13:50] [Info] Loading plugin: streamer
+[01:13:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:13:50] [Info] Loading plugin: samp-node
+[01:13:50] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:13:50] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:13:50] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:13:50] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:13:50] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:13:50] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:13:50] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:13:50] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:13:50] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:13:50] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:13:50] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:13:50] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:13:50] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:13:50] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:13:50] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:13:50] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:13:50] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:13:50] [Info] Total vehicles from files: 1781
+[01:13:50] [Info] 
+---------------------------------------
+[01:13:50] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:13:50] [Info] ---------------------------------------
+
+[01:13:50] [Info] Legacy Network started on port 7777
+[01:14:01] [Info] [connection] incoming connection: 127.0.0.1:56392 id: 0
+[01:14:01] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:20:38] [Info] Loading plugin: streamer
+[01:20:38] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:20:38] [Info] Loading plugin: samp-node
+[01:20:38] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:20:38] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:20:38] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:20:38] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:20:38] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:20:38] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:20:38] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:20:38] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:20:38] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:20:38] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:20:38] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:20:38] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:20:38] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:20:38] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:20:38] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:20:38] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:20:38] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:20:38] [Info] Total vehicles from files: 1781
+[01:20:38] [Info] 
+---------------------------------------
+[01:20:38] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:20:38] [Info] ---------------------------------------
+
+[01:20:38] [Info] Legacy Network started on port 7777
+[01:20:53] [Info] [connection] incoming connection: 127.0.0.1:54391 id: 0
+[01:20:53] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:22:56] [Info] [part] punheta has left the server (0:1)
+[01:23:14] [Info] [connection] incoming connection: 127.0.0.1:55583 id: 0
+[01:23:14] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:24:23] [Info] Loading plugin: streamer
+[01:24:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:24:23] [Info] Loading plugin: samp-node
+[01:24:23] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:24:23] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:24:23] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:24:23] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:24:23] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:24:23] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:24:23] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:24:23] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:24:23] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:24:23] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:24:23] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:24:23] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:24:23] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:24:23] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:24:23] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:24:23] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:24:23] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:24:23] [Info] Total vehicles from files: 1781
+[01:24:23] [Info] 
+---------------------------------------
+[01:24:23] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:24:23] [Info] ---------------------------------------
+
+[01:24:23] [Info] Legacy Network started on port 7777
+[01:24:45] [Info] [connection] incoming connection: 127.0.0.1:50300 id: 0
+[01:24:45] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:26:06] [Info] Loading plugin: streamer
+[01:26:06] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:26:06] [Info] Loading plugin: samp-node
+[01:26:06] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:26:06] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:26:06] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:26:06] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:26:06] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:26:06] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:26:06] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:26:06] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:26:06] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:26:06] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:26:06] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:26:06] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:26:06] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:26:06] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:26:06] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:26:06] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:26:06] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:26:06] [Info] Total vehicles from files: 1781
+[01:26:06] [Info] 
+---------------------------------------
+[01:26:06] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:26:06] [Info] ---------------------------------------
+
+[01:26:06] [Info] Legacy Network started on port 7777
+[01:26:38] [Info] [connection] incoming connection: 127.0.0.1:59308 id: 0
+[01:26:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:27:05] [Info] Loading plugin: streamer
+[01:27:05] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:27:05] [Info] Loading plugin: samp-node
+[01:27:05] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:27:05] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:27:05] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:27:05] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:27:05] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:27:05] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:27:05] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:27:05] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:27:05] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:27:05] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:27:05] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:27:05] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:27:05] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:27:05] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:27:05] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:27:05] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:27:05] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:27:05] [Info] Total vehicles from files: 1781
+[01:27:05] [Info] 
+---------------------------------------
+[01:27:05] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:27:05] [Info] ---------------------------------------
+
+[01:27:05] [Info] Legacy Network started on port 7777
+[01:30:38] [Info] [connection] incoming connection: 127.0.0.1:49995 id: 0
+[01:30:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:31:50] [Info] Loading plugin: streamer
+[01:31:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:31:50] [Info] Loading plugin: samp-node
+[01:31:50] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:31:50] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:31:50] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:31:50] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:31:50] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:31:50] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:31:50] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:31:50] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:31:50] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:31:50] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:31:50] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:31:50] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:31:50] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:31:50] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:31:50] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:31:50] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:31:50] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:31:50] [Info] Total vehicles from files: 1781
+[01:31:50] [Info] 
+---------------------------------------
+[01:31:50] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:31:50] [Info] ---------------------------------------
+
+[01:31:50] [Info] Legacy Network started on port 7777
+[01:32:12] [Info] [connection] incoming connection: 127.0.0.1:59342 id: 0
+[01:32:12] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:33:14] [Info] Loading plugin: streamer
+[01:33:14] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:33:14] [Info] Loading plugin: samp-node
+[01:33:15] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:33:15] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:33:15] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:33:15] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:33:15] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:33:15] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:33:15] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:33:15] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:33:15] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:33:15] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:33:15] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:33:15] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:33:15] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:33:15] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:33:15] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:33:15] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:33:15] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:33:15] [Info] Total vehicles from files: 1781
+[01:33:15] [Info] 
+---------------------------------------
+[01:33:15] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:33:15] [Info] ---------------------------------------
+
+[01:33:15] [Info] Legacy Network started on port 7777
+[01:33:31] [Info] [connection] incoming connection: 127.0.0.1:62703 id: 0
+[01:33:31] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:37:48] [Info] Loading plugin: streamer
+[01:37:48] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:37:48] [Info] Loading plugin: samp-node
+[01:37:49] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:37:49] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:37:49] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:37:49] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:37:49] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:37:49] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:37:49] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:37:49] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:37:49] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:37:49] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:37:49] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:37:49] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:37:49] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:37:49] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:37:49] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:37:49] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:37:49] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:37:49] [Info] Total vehicles from files: 1781
+[01:37:49] [Info] 
+---------------------------------------
+[01:37:49] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:37:49] [Info] ---------------------------------------
+
+[01:37:49] [Info] Legacy Network started on port 7777
+[01:38:05] [Info] [connection] incoming connection: 127.0.0.1:55866 id: 0
+[01:38:05] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:44:35] [Info] Loading plugin: streamer
+[01:44:35] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:44:35] [Info] Loading plugin: samp-node
+[01:44:36] [Info] Loaded 3 vehicles from: vehicles/trains.txt
+[01:44:36] [Info] Loaded 3 vehicles from: vehicles/pilots.txt
+[01:44:36] [Info] Loaded 15 vehicles from: vehicles/lv_law.txt
+[01:44:36] [Info] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[01:44:36] [Info] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[01:44:36] [Info] Loaded 38 vehicles from: vehicles/sf_law.txt
+[01:44:36] [Info] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[01:44:36] [Info] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[01:44:36] [Info] Loaded 24 vehicles from: vehicles/ls_law.txt
+[01:44:36] [Info] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[01:44:36] [Info] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[01:44:36] [Info] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[01:44:36] [Info] Loaded 71 vehicles from: vehicles/whetstone.txt
+[01:44:36] [Info] Loaded 168 vehicles from: vehicles/bone.txt
+[01:44:36] [Info] Loaded 61 vehicles from: vehicles/flint.txt
+[01:44:36] [Info] Loaded 96 vehicles from: vehicles/tierra.txt
+[01:44:36] [Info] Loaded 96 vehicles from: vehicles/red_county.txt
+[01:44:36] [Info] Total vehicles from files: 1781
+[01:44:36] [Info] 
+---------------------------------------
+[01:44:36] [Info] Running Grand Larceny - by the SA-MP team
+
+[01:44:36] [Info] ---------------------------------------
+
+[01:44:36] [Info] Legacy Network started on port 7777
+[01:45:18] [Info] [connection] incoming connection: 127.0.0.1:62134 id: 0
+[01:45:18] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:48:22] [Info] [part] punheta has left the server (0:1)
+[01:49:37] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+

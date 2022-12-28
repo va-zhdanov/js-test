@@ -1,28 +1,38 @@
+// Samp node
 import {
-  OnPlayerConnect,
-  GetPlayerName,
-  SendClientMessageToAll,
+   OnPlayerConnect,
+   GetPlayerName,
+   SendClientMessageToAll,
+   OnGameModeInit,
+   SetGameModeText,
+   OnGameModeExit,
 } from "samp-node-lib";
 
-// testing websocket
-import { io } from "socket.io-client";
-const socket = io("http://localhost:3000");
+// Database
+import { checkDbConnection } from "./db";
+
+// Global Variables
+SetP;
+
+// Dialogs
+import "./dialogs";
+
+OnGameModeInit(async () => {
+   // Gamemode Name
+   SetGameModeText("Test");
+
+   // Check DB connection
+   await checkDbConnection();
+});
+
+OnGameModeExit(async () => {});
 
 OnPlayerConnect(({ playerid: id }) => {
-  const username = GetPlayerName(id, 20);
+   const username = GetPlayerName(id, 20);
 
-  SendClientMessageToAll(
-    "rgba(207,240,183,1)",
-    `[JOIN] ${username} (id: ${id}) has joined the server. Welcome!`
-  );
-
-  socket.emit("SERVER_JOIN", `${username} (id: ${id}) has joined the server`);
-});
-
-socket.on("connect", () => {
-  console.log("[SOCKET CONNECTION]", socket.connected);
-});
-
-socket.on("RECEIVE_WEB_MESSAGE", (msg) => {
-  SendClientMessageToAll("rgba(207,240,183,1)", `${msg}`);
+   // Send join message to all
+   SendClientMessageToAll(
+      "rgba(207,240,183,1)",
+      `[JOIN] ${username} (id: ${id}) has joined the server. Welcome!`
+   );
 });

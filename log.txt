@@ -4447,3 +4447,7 @@
 *** Streamer Plugin v2.9.5 by Incognito loaded ***
 
 [02:21:33] [Info] Loading plugin: samp-node
+[02:21:33] [Info] Legacy Network started on port 7777
+[02:21:50] [Info] [connection] incoming connection: 127.0.0.1:63937 id: 0
+[02:21:50] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:23:15] [Info] [part] punheta has left the server (0:1)

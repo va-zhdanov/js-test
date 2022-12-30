@@ -3629,3 +3629,821 @@
 *** Streamer Plugin v2.9.5 by Incognito loaded ***
 
 [22:23:19] [Info] Loading plugin: samp-node
+[00:03:51] [Info] Loading plugin: streamer
+[00:03:51] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:03:51] [Info] Loading plugin: samp-node
+[00:03:51] [Info] Legacy Network started on port 7777
+[00:03:53] [Info] Loading plugin: streamer
+[00:03:53] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:03:53] [Info] Loading plugin: samp-node
+[00:03:53] [Info] Legacy Network started on port 7777
+[00:04:11] [Info] [connection] incoming connection: 127.0.0.1:63958 id: 0
+[00:04:11] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:06:27] [Info] Loading plugin: streamer
+[00:06:27] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:06:27] [Info] Loading plugin: samp-node
+[00:06:27] [Info] Legacy Network started on port 7777
+[00:06:55] [Info] Loading plugin: streamer
+[00:06:55] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:06:55] [Info] Loading plugin: samp-node
+[00:06:55] [Info] Legacy Network started on port 7777
+[00:07:07] [Info] Loading plugin: streamer
+[00:07:07] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:07:07] [Info] Loading plugin: samp-node
+[00:07:07] [Info] Legacy Network started on port 7777
+[00:14:24] [Info] Loading plugin: streamer
+[00:14:24] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:14:24] [Info] Loading plugin: samp-node
+[00:14:24] [Info] Legacy Network started on port 7777
+[00:14:28] [Info] [connection] incoming connection: 127.0.0.1:64570 id: 0
+[00:14:28] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:15:10] [Info] Loading plugin: streamer
+[00:15:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:15:10] [Info] Loading plugin: samp-node
+[00:15:10] [Info] Legacy Network started on port 7777
+[00:15:59] [Info] Loading plugin: streamer
+[00:15:59] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:15:59] [Info] Loading plugin: samp-node
+[00:15:59] [Info] Legacy Network started on port 7777
+[00:16:09] [Info] Loading plugin: streamer
+[00:16:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:16:09] [Info] Loading plugin: samp-node
+[00:16:10] [Info] Legacy Network started on port 7777
+[00:16:14] [Info] [connection] incoming connection: 127.0.0.1:55182 id: 0
+[00:16:14] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:18:51] [Info] Loading plugin: streamer
+[00:18:51] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:18:51] [Info] Loading plugin: samp-node
+[00:18:51] [Info] Legacy Network started on port 7777
+[00:22:34] [Info] Loading plugin: streamer
+[00:22:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:22:34] [Info] Loading plugin: samp-node
+[00:22:34] [Info] Legacy Network started on port 7777
+[00:22:44] [Info] Loading plugin: streamer
+[00:22:44] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:22:44] [Info] Loading plugin: samp-node
+[00:22:44] [Info] Legacy Network started on port 7777
+[00:22:46] [Info] Loading plugin: streamer
+[00:22:46] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:22:46] [Info] Loading plugin: samp-node
+[00:22:47] [Info] Legacy Network started on port 7777
+[00:23:30] [Info] Loading plugin: streamer
+[00:23:30] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:23:30] [Info] Loading plugin: samp-node
+[00:23:31] [Info] Legacy Network started on port 7777
+[00:24:54] [Info] Loading plugin: streamer
+[00:24:54] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:24:54] [Info] Loading plugin: samp-node
+[00:24:54] [Info] Legacy Network started on port 7777
+[00:25:00] [Info] [connection] incoming connection: 127.0.0.1:49346 id: 0
+[00:25:00] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:25:29] [Info] Loading plugin: streamer
+[00:25:29] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:25:29] [Info] Loading plugin: samp-node
+[00:25:29] [Info] Legacy Network started on port 7777
+[00:25:50] [Info] [connection] incoming connection: 127.0.0.1:49350 id: 0
+[00:25:50] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:26:08] [Info] Loading plugin: streamer
+[00:26:08] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:26:08] [Info] Loading plugin: samp-node
+[00:26:08] [Info] Legacy Network started on port 7777
+[00:28:25] [Info] Loading plugin: streamer
+[00:28:25] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:28:25] [Info] Loading plugin: samp-node
+[00:28:25] [Info] Legacy Network started on port 7777
+[00:28:31] [Info] [connection] incoming connection: 127.0.0.1:63908 id: 0
+[00:28:31] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:29:07] [Info] Loading plugin: streamer
+[00:29:07] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:29:07] [Info] Loading plugin: samp-node
+[00:29:07] [Info] Legacy Network started on port 7777
+[00:30:45] [Info] Loading plugin: streamer
+[00:30:45] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:30:45] [Info] Loading plugin: samp-node
+[00:30:45] [Info] Legacy Network started on port 7777
+[00:31:05] [Info] Loading plugin: streamer
+[00:31:05] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:31:05] [Info] Loading plugin: samp-node
+[00:31:05] [Info] Legacy Network started on port 7777
+[00:31:09] [Info] Loading plugin: streamer
+[00:31:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:31:09] [Info] Loading plugin: samp-node
+[00:31:10] [Info] Legacy Network started on port 7777
+[00:31:59] [Info] Loading plugin: streamer
+[00:31:59] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:31:59] [Info] Loading plugin: samp-node
+[00:31:59] [Info] Legacy Network started on port 7777
+[00:36:25] [Info] Loading plugin: streamer
+[00:36:25] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:36:25] [Info] Loading plugin: samp-node
+[00:36:25] [Info] Legacy Network started on port 7777
+[00:38:31] [Info] Loading plugin: streamer
+[00:38:31] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:38:31] [Info] Loading plugin: samp-node
+[00:38:32] [Info] Legacy Network started on port 7777
+[00:38:36] [Info] [connection] incoming connection: 127.0.0.1:62750 id: 0
+[00:38:36] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:39:38] [Info] Loading plugin: streamer
+[00:39:38] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:39:38] [Info] Loading plugin: samp-node
+[00:39:38] [Info] Legacy Network started on port 7777
+[00:39:53] [Info] Loading plugin: streamer
+[00:39:53] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:39:53] [Info] Loading plugin: samp-node
+[00:39:53] [Info] Legacy Network started on port 7777
+[00:39:57] [Info] [connection] incoming connection: 127.0.0.1:62752 id: 0
+[00:39:57] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:41:16] [Info] Loading plugin: streamer
+[00:41:16] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:41:16] [Info] Loading plugin: samp-node
+[00:41:16] [Info] Legacy Network started on port 7777
+[00:42:31] [Info] [connection] incoming connection: 127.0.0.1:61801 id: 0
+[00:42:31] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:45:50] [Info] Loading plugin: streamer
+[00:45:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:45:50] [Info] Loading plugin: samp-node
+[00:45:50] [Info] Legacy Network started on port 7777
+[00:50:01] [Info] Loading plugin: streamer
+[00:50:01] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:50:01] [Info] Loading plugin: samp-node
+[00:50:01] [Info] Legacy Network started on port 7777
+[00:50:06] [Info] Loading plugin: streamer
+[00:50:06] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:50:06] [Info] Loading plugin: samp-node
+[00:50:06] [Info] Legacy Network started on port 7777
+[00:50:10] [Info] Loading plugin: streamer
+[00:50:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:50:10] [Info] Loading plugin: samp-node
+[00:50:10] [Info] Legacy Network started on port 7777
+[00:50:20] [Info] [connection] incoming connection: 127.0.0.1:51540 id: 0
+[00:50:20] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:52:08] [Info] Loading plugin: streamer
+[00:52:08] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:52:08] [Info] Loading plugin: samp-node
+[00:52:08] [Info] Legacy Network started on port 7777
+[00:52:39] [Info] Loading plugin: streamer
+[00:52:39] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:52:39] [Info] Loading plugin: samp-node
+[00:52:39] [Info] Legacy Network started on port 7777
+[00:53:41] [Info] Loading plugin: streamer
+[00:53:41] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:53:41] [Info] Loading plugin: samp-node
+[00:53:41] [Info] Legacy Network started on port 7777
+[00:53:45] [Info] Loading plugin: streamer
+[00:53:45] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:53:45] [Info] Loading plugin: samp-node
+[00:53:45] [Info] Legacy Network started on port 7777
+[00:55:42] [Info] Loading plugin: streamer
+[00:55:42] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:55:42] [Info] Loading plugin: samp-node
+[00:55:42] [Info] Legacy Network started on port 7777
+[00:55:46] [Info] [connection] incoming connection: 127.0.0.1:58349 id: 0
+[00:55:46] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[00:56:13] [Info] Loading plugin: streamer
+[00:56:13] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:56:13] [Info] Loading plugin: samp-node
+[00:56:13] [Info] Legacy Network started on port 7777
+[00:56:36] [Info] [connection] incoming connection: 127.0.0.1:58252 id: 0
+[00:56:36] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:02:54] [Info] Loading plugin: streamer
+[01:02:54] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:02:54] [Info] Loading plugin: samp-node
+[01:02:54] [Info] Legacy Network started on port 7777
+[01:03:12] [Info] Loading plugin: streamer
+[01:03:12] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:03:12] [Info] Loading plugin: samp-node
+[01:03:12] [Info] Legacy Network started on port 7777
+[01:11:55] [Info] Loading plugin: streamer
+[01:11:55] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:11:55] [Info] Loading plugin: samp-node
+[01:11:55] [Info] Legacy Network started on port 7777
+[01:12:23] [Info] Loading plugin: streamer
+[01:12:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:12:23] [Info] Loading plugin: samp-node
+[01:12:23] [Info] Legacy Network started on port 7777
+[01:12:27] [Info] [connection] incoming connection: 127.0.0.1:60816 id: 0
+[01:12:27] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:12:49] [Info] Loading plugin: streamer
+[01:12:49] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:12:49] [Info] Loading plugin: samp-node
+[01:12:49] [Info] Legacy Network started on port 7777
+[01:13:03] [Info] [connection] incoming connection: 127.0.0.1:60820 id: 0
+[01:13:03] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:16:47] [Info] Loading plugin: streamer
+[01:16:47] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:16:47] [Info] Loading plugin: samp-node
+[01:16:47] [Info] Legacy Network started on port 7777
+[01:19:20] [Info] Loading plugin: streamer
+[01:19:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:19:20] [Info] Loading plugin: samp-node
+[01:19:21] [Info] Legacy Network started on port 7777
+[01:21:28] [Info] Loading plugin: streamer
+[01:21:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:21:28] [Info] Loading plugin: samp-node
+[01:21:29] [Info] Legacy Network started on port 7777
+[01:22:57] [Info] Loading plugin: streamer
+[01:22:57] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:22:57] [Info] Loading plugin: samp-node
+[01:22:57] [Info] Legacy Network started on port 7777
+[01:23:15] [Info] [connection] incoming connection: 127.0.0.1:52933 id: 0
+[01:23:15] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:26:10] [Info] Loading plugin: streamer
+[01:26:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:26:10] [Info] Loading plugin: samp-node
+[01:26:10] [Info] Legacy Network started on port 7777
+[01:26:22] [Info] [connection] incoming connection: 127.0.0.1:50472 id: 0
+[01:26:22] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:27:29] [Info] Loading plugin: streamer
+[01:27:29] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:27:29] [Info] Loading plugin: samp-node
+[01:27:30] [Info] Legacy Network started on port 7777
+[01:28:10] [Info] Loading plugin: streamer
+[01:28:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:28:10] [Info] Loading plugin: samp-node
+[01:28:10] [Info] Legacy Network started on port 7777
+[01:28:44] [Info] [connection] incoming connection: 127.0.0.1:54572 id: 0
+[01:28:44] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:29:22] [Info] Loading plugin: streamer
+[01:29:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:29:22] [Info] Loading plugin: samp-node
+[01:29:22] [Info] Legacy Network started on port 7777
+[01:29:38] [Info] [connection] incoming connection: 127.0.0.1:54431 id: 0
+[01:29:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:30:08] [Info] Loading plugin: streamer
+[01:30:08] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:30:08] [Info] Loading plugin: samp-node
+[01:30:08] [Info] Legacy Network started on port 7777
+[01:30:34] [Info] Loading plugin: streamer
+[01:30:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:30:34] [Info] Loading plugin: samp-node
+[01:30:34] [Info] Legacy Network started on port 7777
+[01:31:08] [Info] [connection] incoming connection: 127.0.0.1:56654 id: 0
+[01:31:08] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:33:17] [Info] Loading plugin: streamer
+[01:33:17] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:33:17] [Info] Loading plugin: samp-node
+[01:33:18] [Info] Legacy Network started on port 7777
+[01:33:34] [Info] [connection] incoming connection: 127.0.0.1:54612 id: 0
+[01:33:34] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:33:57] [Info] Loading plugin: streamer
+[01:33:57] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:33:57] [Info] Loading plugin: samp-node
+[01:33:57] [Info] Legacy Network started on port 7777
+[01:34:21] [Info] Loading plugin: streamer
+[01:34:21] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:34:21] [Info] Loading plugin: samp-node
+[01:34:21] [Info] Legacy Network started on port 7777
+[01:34:38] [Info] [connection] incoming connection: 127.0.0.1:54615 id: 0
+[01:34:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:34:56] [Info] Loading plugin: streamer
+[01:34:56] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:34:56] [Info] Loading plugin: samp-node
+[01:34:57] [Info] Legacy Network started on port 7777
+[01:35:04] [Info] Loading plugin: streamer
+[01:35:04] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:35:04] [Info] Loading plugin: samp-node
+[01:35:04] [Info] Legacy Network started on port 7777
+[01:35:14] [Info] Loading plugin: streamer
+[01:35:14] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:35:14] [Info] Loading plugin: samp-node
+[01:35:14] [Info] Legacy Network started on port 7777
+[01:35:22] [Info] [connection] incoming connection: 127.0.0.1:54619 id: 0
+[01:35:22] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:36:06] [Info] Loading plugin: streamer
+[01:36:06] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:36:06] [Info] Loading plugin: samp-node
+[01:36:07] [Info] Legacy Network started on port 7777
+[01:36:20] [Info] Loading plugin: streamer
+[01:36:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:36:20] [Info] Loading plugin: samp-node
+[01:36:20] [Info] Legacy Network started on port 7777
+[01:36:24] [Info] [connection] incoming connection: 127.0.0.1:60885 id: 0
+[01:36:24] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:37:00] [Info] Loading plugin: streamer
+[01:37:00] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:37:00] [Info] Loading plugin: samp-node
+[01:37:00] [Info] Legacy Network started on port 7777
+[01:37:13] [Info] [connection] incoming connection: 127.0.0.1:52565 id: 0
+[01:37:13] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:37:23] [Info] Loading plugin: streamer
+[01:37:23] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:37:23] [Info] Loading plugin: samp-node
+[01:37:24] [Info] Legacy Network started on port 7777
+[01:37:44] [Info] Loading plugin: streamer
+[01:37:44] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:37:44] [Info] Loading plugin: samp-node
+[01:37:45] [Info] Legacy Network started on port 7777
+[01:37:47] [Info] [connection] incoming connection: 127.0.0.1:55475 id: 0
+[01:37:47] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:38:18] [Info] Loading plugin: streamer
+[01:38:18] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:38:18] [Info] Loading plugin: samp-node
+[01:38:18] [Info] Legacy Network started on port 7777
+[01:38:30] [Info] [connection] incoming connection: 127.0.0.1:53640 id: 0
+[01:38:30] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:38:50] [Info] Loading plugin: streamer
+[01:38:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:38:50] [Info] Loading plugin: samp-node
+[01:38:51] [Info] Legacy Network started on port 7777
+[01:39:13] [Info] Loading plugin: streamer
+[01:39:13] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:39:13] [Info] Loading plugin: samp-node
+[01:39:13] [Info] Legacy Network started on port 7777
+[01:39:30] [Info] Loading plugin: streamer
+[01:39:30] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:39:30] [Info] Loading plugin: samp-node
+[01:39:30] [Info] Legacy Network started on port 7777
+[01:39:32] [Info] [connection] incoming connection: 127.0.0.1:60379 id: 0
+[01:39:32] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:40:59] [Info] Loading plugin: streamer
+[01:40:59] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:40:59] [Info] Loading plugin: samp-node
+[01:41:36] [Info] Loading plugin: streamer
+[01:41:36] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:41:36] [Info] Loading plugin: samp-node
+[01:43:01] [Info] Loading plugin: streamer
+[01:43:01] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:43:01] [Info] Loading plugin: samp-node
+[01:43:01] [Info] Legacy Network started on port 7777
+[01:43:22] [Info] Loading plugin: streamer
+[01:43:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:43:22] [Info] Loading plugin: samp-node
+[01:43:22] [Info] Legacy Network started on port 7777
+[01:43:28] [Info] [connection] incoming connection: 127.0.0.1:56363 id: 0
+[01:43:28] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:44:37] [Info] Loading plugin: streamer
+[01:44:37] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:44:37] [Info] Loading plugin: samp-node
+[01:44:38] [Info] Legacy Network started on port 7777
+[01:45:21] [Info] Loading plugin: streamer
+[01:45:21] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:45:21] [Info] Loading plugin: samp-node
+[01:45:21] [Info] Legacy Network started on port 7777
+[01:45:50] [Info] Loading plugin: streamer
+[01:45:50] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:45:50] [Info] Loading plugin: samp-node
+[01:45:50] [Info] Legacy Network started on port 7777
+[01:47:30] [Info] Loading plugin: streamer
+[01:47:30] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:47:30] [Info] Loading plugin: samp-node
+[01:47:30] [Info] Legacy Network started on port 7777
+[01:48:09] [Info] Loading plugin: streamer
+[01:48:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:48:09] [Info] Loading plugin: samp-node
+[01:48:09] [Info] Legacy Network started on port 7777
+[01:48:22] [Info] Loading plugin: streamer
+[01:48:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:48:22] [Info] Loading plugin: samp-node
+[01:48:22] [Info] Legacy Network started on port 7777
+[01:50:19] [Info] Loading plugin: streamer
+[01:50:19] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:50:19] [Info] Loading plugin: samp-node
+[01:50:19] [Info] Legacy Network started on port 7777
+[01:50:53] [Info] Loading plugin: streamer
+[01:50:53] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:50:53] [Info] Loading plugin: samp-node
+[01:50:53] [Info] Legacy Network started on port 7777
+[01:53:24] [Info] Loading plugin: streamer
+[01:53:24] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:53:24] [Info] Loading plugin: samp-node
+[01:53:24] [Info] Legacy Network started on port 7777
+[01:53:30] [Info] Loading plugin: streamer
+[01:53:30] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:53:30] [Info] Loading plugin: samp-node
+[01:53:30] [Info] Legacy Network started on port 7777
+[01:53:33] [Info] [connection] incoming connection: 127.0.0.1:49190 id: 0
+[01:53:33] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[01:56:43] [Info] Loading plugin: streamer
+[01:56:43] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:56:43] [Info] Loading plugin: samp-node
+[01:56:43] [Info] Legacy Network started on port 7777
+[01:57:34] [Info] Loading plugin: streamer
+[01:57:34] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:57:34] [Info] Loading plugin: samp-node
+[01:57:35] [Info] Legacy Network started on port 7777
+[01:58:47] [Info] Loading plugin: streamer
+[01:58:47] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:58:47] [Info] Loading plugin: samp-node
+[01:58:47] [Info] Legacy Network started on port 7777
+[01:59:51] [Info] Loading plugin: streamer
+[01:59:51] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[01:59:51] [Info] Loading plugin: samp-node
+[01:59:51] [Info] Legacy Network started on port 7777
+[01:59:55] [Info] [connection] incoming connection: 127.0.0.1:56062 id: 0
+[01:59:55] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:00:10] [Info] Loading plugin: streamer
+[02:00:10] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:00:10] [Info] Loading plugin: samp-node
+[02:00:10] [Info] Legacy Network started on port 7777
+[02:00:21] [Info] [connection] incoming connection: 127.0.0.1:56067 id: 0
+[02:00:21] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:00:32] [Info] Loading plugin: streamer
+[02:00:32] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:00:32] [Info] Loading plugin: samp-node
+[02:00:32] [Info] Legacy Network started on port 7777
+[02:00:52] [Info] [connection] incoming connection: 127.0.0.1:56070 id: 0
+[02:00:52] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:02:00] [Info] Loading plugin: streamer
+[02:02:00] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:02:00] [Info] Loading plugin: samp-node
+[02:02:00] [Info] Legacy Network started on port 7777
+[02:02:17] [Info] [connection] incoming connection: 127.0.0.1:56075 id: 0
+[02:02:17] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:02:47] [Info] Loading plugin: streamer
+[02:02:47] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:02:47] [Info] Loading plugin: samp-node
+[02:02:47] [Info] Legacy Network started on port 7777
+[02:05:07] [Info] Loading plugin: streamer
+[02:05:07] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:05:07] [Info] Loading plugin: samp-node
+[02:05:08] [Info] Legacy Network started on port 7777
+[02:05:15] [Info] [connection] incoming connection: 127.0.0.1:64975 id: 0
+[02:05:15] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:06:03] [Info] Loading plugin: streamer
+[02:06:03] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:06:03] [Info] Loading plugin: samp-node
+[02:06:03] [Info] Legacy Network started on port 7777
+[02:06:27] [Info] [connection] incoming connection: 127.0.0.1:64981 id: 0
+[02:06:27] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:09:38] [Info] Loading plugin: streamer
+[02:09:38] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:09:38] [Info] Loading plugin: samp-node
+[02:09:38] [Info] Legacy Network started on port 7777
+[02:09:59] [Info] [connection] incoming connection: 127.0.0.1:51929 id: 0
+[02:09:59] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:11:41] [Info] Loading plugin: streamer
+[02:11:41] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:11:41] [Info] Loading plugin: samp-node
+[02:11:41] [Info] Legacy Network started on port 7777
+[02:12:00] [Info] [connection] incoming connection: 127.0.0.1:55636 id: 0
+[02:12:00] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:12:28] [Info] Loading plugin: streamer
+[02:12:28] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:12:28] [Info] Loading plugin: samp-node
+[02:12:28] [Info] Legacy Network started on port 7777
+[02:12:50] [Info] [connection] incoming connection: 127.0.0.1:50143 id: 0
+[02:12:50] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:13:51] [Info] Loading plugin: streamer
+[02:13:51] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:13:51] [Info] Loading plugin: samp-node
+[02:13:51] [Info] Legacy Network started on port 7777
+[02:13:58] [Info] Loading plugin: streamer
+[02:13:58] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:13:58] [Info] Loading plugin: samp-node
+[02:13:58] [Info] Legacy Network started on port 7777
+[02:14:07] [Info] [connection] incoming connection: 127.0.0.1:50148 id: 0
+[02:14:07] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:15:22] [Info] Loading plugin: streamer
+[02:15:22] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:15:22] [Info] Loading plugin: samp-node
+[02:15:22] [Info] Legacy Network started on port 7777
+[02:15:38] [Info] [connection] incoming connection: 127.0.0.1:65472 id: 0
+[02:15:38] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:17:08] [Info] Loading plugin: streamer
+[02:17:08] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:17:08] [Info] Loading plugin: samp-node
+[02:17:08] [Info] Legacy Network started on port 7777
+[02:17:17] [Info] Loading plugin: streamer
+[02:17:17] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:17:17] [Info] Loading plugin: samp-node
+[02:17:18] [Info] Legacy Network started on port 7777
+[02:17:31] [Info] Loading plugin: streamer
+[02:17:31] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:17:31] [Info] Loading plugin: samp-node
+[02:17:31] [Info] Legacy Network started on port 7777
+[02:17:35] [Info] [connection] incoming connection: 127.0.0.1:64511 id: 0
+[02:17:35] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:18:09] [Info] Loading plugin: streamer
+[02:18:09] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:18:09] [Info] Loading plugin: samp-node
+[02:18:09] [Info] Legacy Network started on port 7777
+[02:18:20] [Info] Loading plugin: streamer
+[02:18:20] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:18:20] [Info] Loading plugin: samp-node
+[02:18:20] [Info] Legacy Network started on port 7777
+[02:18:57] [Info] [connection] incoming connection: 127.0.0.1:64515 id: 0
+[02:18:57] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:19:56] [Info] Loading plugin: streamer
+[02:19:56] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:19:56] [Info] Loading plugin: samp-node
+[02:19:56] [Info] Legacy Network started on port 7777
+[02:20:16] [Info] [connection] incoming connection: 127.0.0.1:58117 id: 0
+[02:20:16] [Info] [join] punheta has joined the server (0:127.0.0.1)
+[02:21:33] [Info] Loading plugin: streamer
+[02:21:33] [Info] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[02:21:33] [Info] Loading plugin: samp-node
